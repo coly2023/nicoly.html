@@ -23,14 +23,15 @@ body {
 }
 .unicornio {
     background-color: forestgreen
+
+}
+.brilho {
+   color: aqua;
+}
+
 <ul>
     <h4> carros 2023</h4>
     <li> lancer</li>
     <li> toytota supra</li>
     <li> golf GTI</li>
 </ul>
-
-}
-.brilho {
-   color: aqua;
-}
